@@ -1,4 +1,5 @@
-# 👨‍💻 Robert Caxito
+# Robert Caxito
+**`Frontend Dev`**
 
 <h3 align="center">🚀 Software Engineer | Passionate about building modern digital solutions</h3>
 
